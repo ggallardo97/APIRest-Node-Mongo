@@ -1,0 +1,10 @@
+{
+    "name": "API Rest Users-Courses",
+    "configDB":{
+        "HOST":"mongodb://localhost:27017/demo"
+    },
+    "configToken":{
+        "SEED":"password",
+        "expiration": "5h"
+    }
+}
